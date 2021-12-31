@@ -1,0 +1,59 @@
+.navbar{
+    position: sticky;
+    height: 50px;
+    background-color: blue;
+    top: 0px;
+}
+input{
+    left: 500px;
+    position: sticky;
+    width: 440px;
+    margin: 5px;
+    height: 34px;
+}
+.logo{
+   
+    position: absolute;
+    bottom: 1px;
+    left: 445px;
+    
+    
+    
+}
+.btn{
+    left: 1000px;
+    position: absolute;
+    width: 40px;
+    margin: 5px;
+    height: 34px;
+    bottom:1px ;
+
+}
+.h{
+    position: relative;
+    bottom: 35px;
+    left: 10px;
+    
+}
+.images
+{
+    display: flex;
+    text-align: center;
+    margin: 23px;
+}
+.space{
+    margin: 10px;
+}
+.h1{
+    bottom: 40px;
+    position: relative;
+    top: 5px;
+}
+.h2{
+    bottom: 50px;
+    top: 6px;
+    position: relative;
+}
+.spaces{
+    margin: 25px;
+}
